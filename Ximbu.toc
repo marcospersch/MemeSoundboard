@@ -1,0 +1,7 @@
+
+## Interface: 80100
+## Title: Ximbu
+## Author: Marcos Persch
+## Notes: Hides the default gryphons on the action bars, Hides the social button on the chat box.  
+## Version: 1.0
+Ximbu.lua

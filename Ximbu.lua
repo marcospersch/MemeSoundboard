@@ -1,0 +1,5 @@
+MainMenuBarArtFrame.LeftEndCap:Hide()
+MainMenuBarArtFrame.RightEndCap:Hide()
+local b = QuickJoinToastButton b:UnregisterAllEvents() b:SetScript("OnShow", b.Hide) b:Hide() UIParent:UnregisterEvent("UNIT_AURA")
+QuickJoinToastButton.Toast2:Hide()
+QuickJoinToastButton.Toast:Hide()
